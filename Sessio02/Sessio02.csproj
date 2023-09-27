@@ -7,4 +7,36 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Arsenal.png" />
+    <None Remove="cadiz-rayo.png" />
+    <None Remove="chelsea.png" />
+    <None Remove="city.png" />
+    <None Remove="DAZN_Logo_Chalk.svg.png" />
+    <None Remove="Gir.png" />
+    <None Remove="liverpool.png" />
+    <None Remove="M-FCB - copia.png" />
+    <None Remove="M-FCB.png" />
+    <None Remove="max.png" />
+    <None Remove="moto.png" />
+    <None Remove="NFL.png" />
+    <None Remove="sevilla.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Arsenal.png" />
+    <Resource Include="cadiz-rayo.png" />
+    <Resource Include="chelsea.png" />
+    <Resource Include="city.png" />
+    <Resource Include="DAZN_Logo_Chalk.svg.png" />
+    <Resource Include="Gir.png" />
+    <Resource Include="liverpool.png" />
+    <Resource Include="M-FCB - copia.png" />
+    <Resource Include="M-FCB.png" />
+    <Resource Include="max.png" />
+    <Resource Include="moto.png" />
+    <Resource Include="NFL.png" />
+    <Resource Include="sevilla.png" />
+  </ItemGroup>
+
 </Project>
